@@ -1,4 +1,4 @@
-https://public.tableau.com/app/profile/nandita.telang/viz/Book1_17931734174510/Dashboard5?publish=yes
+https://public.tableau.com/views/Book1_17932524886160/Dashboard5?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Site Link:
-https://en25-cs.github.io/HealthCareProject_360/
+https://github.com/Namansinghsolanki/Health360_tableau
